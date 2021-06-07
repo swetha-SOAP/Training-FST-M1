@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/ant-1.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/ant-launcher-1.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/asm-7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/aspectjweaver-1.9.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/cglib-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/commons-beanutils-1.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/commons-io-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/commons-validator-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/guice-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/httpclient-4.5.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/httpcore-4.4.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/java-client-7.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/jcommander-1.78.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/junit-4.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/selenium-api-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/selenium-chrome-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/selenium-edge-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/selenium-firefox-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/selenium-ie-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/selenium-opera-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/selenium-remote-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/selenium-safari-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/selenium-support-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/snakeyaml-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/spring-aop-5.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/spring-beans-5.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/spring-context-5.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/spring-core-5.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/spring-expression-5.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/spring-jcl-5.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SowmyaRathnakar/eclipse-workspace/new workspace/selenium_java-master/Appium_jars/Appium_JARS/testng-7.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
